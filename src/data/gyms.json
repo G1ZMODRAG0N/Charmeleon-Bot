@@ -1,0 +1,958 @@
+[
+  {
+    "name": "10 Commandments Monument",
+    "location": "http://maps.google.com/maps?q=33.560532,-84.322711",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "American Legion Chapel",
+    "location": "http://maps.google.com/maps?q=33.496956,-84.343034",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Apostolic Tabernacle United Pentecostal Church",
+    "location": "http://maps.google.com/maps?q=33.489002,-84.341543",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Arts Clayton Gallery",
+    "location": "http://maps.google.com/maps?q=33.520269,-84.354698",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Bass Memorial Bench",
+    "location": "http://maps.google.com/maps?q=33.567465,-84.374549",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Church Of Christ",
+    "location": "http://maps.google.com/maps?q=33.535756,-84.33176",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Clayton County History Center",
+    "location": "http://maps.google.com/maps?q=33.522709,-84.35274",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Clayton County Library System Riverdale",
+    "location": "http://maps.google.com/maps?q=33.568775,-84.403915",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Clayton County Library System Jonesboro",
+    "location": "http://maps.google.com/maps?q=33.5538841,-84.3634262",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Clock Tower On Tara",
+    "location": "http://maps.google.com/maps?q=33.570501,-84.371577",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Confederate Memorial",
+    "location": "http://maps.google.com/maps?q=33.530588,-84.353241",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Cop Statue",
+    "location": "http://maps.google.com/maps?q=33.506887,-84.356676",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Diverted Attack",
+    "location": "http://maps.google.com/maps?q=33.521433,-84.36148",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Eagle Statue",
+    "location": "http://maps.google.com/maps?q=33.4863,-84.341778",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Faith United Methodist Church",
+    "location": "http://maps.google.com/maps?q=33.554784,-84.374257",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "First Presbyterian Church Of Jonesboro",
+    "location": "http://maps.google.com/maps?q=33.5129,-84.330047",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Gazebo Under The Magnolias",
+    "location": "http://maps.google.com/maps?q=33.52243,-84.353846",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Grave",
+    "location": "http://maps.google.com/maps?q=33.579882,-84.379268",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Honda",
+    "location": "http://maps.google.com/maps?q=33.525291,-84.363617",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Jonesboro Battleground City Park",
+    "location": "http://maps.google.com/maps?q=33.514522,-84.347398",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Jonesboro Christian Fellowship Holiness Church",
+    "location": "http://maps.google.com/maps?q=33.541789,-84.364887",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Jonesboro Church Of God Christ",
+    "location": "http://maps.google.com/maps?q=33.532075,-84.355841",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Jonesboro Welcome Mural",
+    "location": "http://maps.google.com/maps?q=33.529737,-84.354647",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Keystone Park",
+    "location": "http://maps.google.com/maps?q=33.518916,-84.350806",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Memorial Fountains",
+    "location": "http://maps.google.com/maps?q=33.525489,-84.353752",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Road To Tara Museum",
+    "location": "http://maps.google.com/maps?q=33.521659,-84.354632",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Saint Francis Statue",
+    "location": "http://maps.google.com/maps?q=33.527235,-84.354706",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Slemons Family Memorial Bench",
+    "location": "http://maps.google.com/maps?q=33.566758,-84.374727",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "South Korean Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.546072,-84.368649",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Southside Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.56044,-84.371952",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Stately Oaks",
+    "location": "http://maps.google.com/maps?q=33.514904,-84.351079",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Tara Stadium",
+    "location": "http://maps.google.com/maps?q=33.550726,-84.358008",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "The Johnson-Blalock House",
+    "location": "http://maps.google.com/maps?q=33.52395,-84.35444",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "The March To The Sea",
+    "location": "http://maps.google.com/maps?q=33.532222,-84.363333",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "The Show Business",
+    "location": "http://maps.google.com/maps?q=33.547435,-84.341919",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Time For Kids Clock Tower",
+    "location": "http://maps.google.com/maps?q=33.559584,-84.325589",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Twin Tanks",
+    "location": "http://maps.google.com/maps?q=33.544123,-84.344584",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Two Days Of Battle at Jonesbor",
+    "location": "http://maps.google.com/maps?q=33.5302,-84.353683",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Walk In God's Agape Love Ministries",
+    "location": "http://maps.google.com/maps?q=33.470855,-84.33744",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Zeman R. Johnson Memorial Bench",
+    "location": "http://maps.google.com/maps?q=33.568039,-84.375346",
+    "area": "Jonesboro",
+    "ex_eligible": false
+  },
+  {
+    "name": "Antique Wagon",
+    "location": "http://maps.google.com/maps?q=33.471395,-84.30538",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Cavalry Action at Lovejoy's Station",
+    "location": "http://maps.google.com/maps?q=33.448901,-84.3248",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Clayton Soccer Fields",
+    "location": "http://maps.google.com/maps?q=33.447909,-84.328261",
+    "area": "Hampton",
+    "ex_eligible": true
+  },
+  {
+    "name": "County Line",
+    "location": "http://maps.google.com/maps?q=33.468607,-84.282736",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Cross At Lovejoy",
+    "location": "http://maps.google.com/maps?q=33.44718,-84.336524",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Fountain in The Park",
+    "location": "http://maps.google.com/maps?q=33.439871,-84.314238",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Lovejoy City Hall",
+    "location": "http://maps.google.com/maps?q=33.434276,-84.318169",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Lovejoy United Methodist Church",
+    "location": "http://maps.google.com/maps?q=33.440185,-84.320555",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Melvin L. Newman Wetlands Center",
+    "location": "http://maps.google.com/maps?q=33.471907,-84.30517",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Moore's Temple",
+    "location": "http://maps.google.com/maps?q=33.46673,-84.287418",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Newman Wetlands Center Covered Bridge",
+    "location": "http://maps.google.com/maps?q=33.471633,-84.308249",
+    "area": "Hampton",
+    "ex_eligible": false
+  },
+  {
+    "name": "Barton Memorial Park",
+    "location": "http://maps.google.com/maps?q=33.574593,-84.332887",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Buddhist Temple",
+    "location": "http://maps.google.com/maps?q=33.607057,-84.352398",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Cao Dai Temple Of Georgia",
+    "location": "http://maps.google.com/maps?q=33.581608,-84.290859",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Charles Daniel Memorial Park",
+    "location": "http://maps.google.com/maps?q=33.584202,-84.342338",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Circle Of Church",
+    "location": "http://maps.google.com/maps?q=33.591509,-84.337835",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "City Of Morrow",
+    "location": "http://maps.google.com/maps?q=33.597903,-84.33849",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Faith Deliverance Christian Church",
+    "location": "http://maps.google.com/maps?q=33.581178,-84.324072",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Sprint Fayetteville",
+    "location": "http://maps.google.com/maps?q=33.4808611,-84.4343134",
+    "area": "Fayetteville",
+    "ex_eligible": true
+  },
+  {
+    "name": "First Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.622621,-84.369772",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Sprint Morrow",
+    "location": "http://maps.google.com/maps?q=33.563032,-84.324989",
+    "area": "Morrow",
+    "ex_eligible": true
+  },
+  {
+    "name": "Forest Park Church Of Christ",
+    "location": "http://maps.google.com/maps?q=33.611347,-84.356409",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Huie Reynolds Barn",
+    "location": "http://maps.google.com/maps?q=33.60165,-84.348531",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Hule Rd Fountain",
+    "location": "http://maps.google.com/maps?q=33.59977,-84.339362",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Judge Eugene Lawson Amphitheatre",
+    "location": "http://maps.google.com/maps?q=33.593867,-84.329691",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Kingdom Life Worship",
+    "location": "http://maps.google.com/maps?q=33.588168,-84.340446",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Morrow Post Office",
+    "location": "http://maps.google.com/maps?q=33.583444,-84.338257",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "National Archives At Atlanta",
+    "location": "http://maps.google.com/maps?q=33.597563,-84.337317",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "New Testament Church",
+    "location": "http://maps.google.com/maps?q=33.59658,-84.313958",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Pantheon Of Athletes",
+    "location": "http://maps.google.com/maps?q=33.594317,-84.330815",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "People in Stone",
+    "location": "http://maps.google.com/maps?q=33.593657,-84.32774",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Performing Arts Center",
+    "location": "http://maps.google.com/maps?q=33.554629,-84.3080090",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Rex Recreation Park",
+    "location": "http://maps.google.com/maps?q=33.590404,-84.276054",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Reynolds Reserve Gazebo",
+    "location": "http://maps.google.com/maps?q=33.605557,-84.342637",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Rock Park",
+    "location": "http://maps.google.com/maps?q=33.582841,-84.345624",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Rock Springs Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.593892,-84.343041",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Silver Slyph",
+    "location": "http://maps.google.com/maps?q=33.594748,-84.327676",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "South Lake Carousel",
+    "location": "http://maps.google.com/maps?q=33.575509,-84.351801",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Trammel Road Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.599658,-84.319665",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Traveler's Rest Missionary Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.590072,-84.315559",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "True Life Tabernacle Ministry",
+    "location": "http://maps.google.com/maps?q=33.598438,-84.32163",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "University Center Sign At Clayton State University.",
+    "location": "http://maps.google.com/maps?q=33.59522,-84.329463",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "What Do You See",
+    "location": "http://maps.google.com/maps?q=33.600524,-84.347602",
+    "area": "Morrow",
+    "ex_eligible": false
+  },
+  {
+    "name": "Atlas Statue",
+    "location": "http://maps.google.com/maps?q=33.619461,-84.35255",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Bethel Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.61294,-84.370389",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Bread For Life Full Gospel Church",
+    "location": "http://maps.google.com/maps?q=33.621896,-84.373227",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "City Of Forest Park Museum Of History",
+    "location": "http://maps.google.com/maps?q=33.618082,-84.362848",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Crosses Mausoleum",
+    "location": "http://maps.google.com/maps?q=33.64004,-84.366894",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Forest Park Fountain",
+    "location": "http://maps.google.com/maps?q=33.620183,-84.360853",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Forest Park New Library",
+    "location": "http://maps.google.com/maps?q=33.623017,-84.368164",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Forest Park Theatre Drive Park",
+    "location": "http://maps.google.com/maps?q=33.634869,-84.356312",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Iverson Gate",
+    "location": "http://maps.google.com/maps?q=33.616846,-84.349086",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Liberty Family Worship Center",
+    "location": "http://maps.google.com/maps?q=33.62045,-84.358513",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Military Scripture",
+    "location": "http://maps.google.com/maps?q=33.641127,-84.365624",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Philadelphia Presbyterian Church Plaque",
+    "location": "http://maps.google.com/maps?q=33.590866,-84.378444",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Schofield Memorial Bench",
+    "location": "http://maps.google.com/maps?q=33.641391,-84.363331",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Sunrise Tomorrow Memorial",
+    "location": "http://maps.google.com/maps?q=33.640549,-84.366267",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Time for Class Clock",
+    "location": "http://maps.google.com/maps?q=33.628334,-84.356087",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Virgin Mary Mural",
+    "location": "http://maps.google.com/maps?q=33.642829,-84.363411",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Walking Path Gazebo",
+    "location": "http://maps.google.com/maps?q=33.618126,-84.36639",
+    "area": "Forest Park",
+    "ex_eligible": true
+  },
+  {
+    "name": "Water Tower",
+    "location": "http://maps.google.com/maps?q=33.640181,-84.362574",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Holy Martyrs Of Vietnam Parish Hall",
+    "location": "http://maps.google.com/maps?q=33.559589,-84.387539",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Lakewin Christian Center",
+    "location": "http://maps.google.com/maps?q=33.579178,-84.4159370",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Light Of Joy",
+    "location": "http://maps.google.com/maps?q=33.542604,-84.399843",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Mrs. M. J. Gresham",
+    "location": "http://maps.google.com/maps?q=33.568708,-84.418791",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "New Presbyterian Church Of Georgia",
+    "location": "http://maps.google.com/maps?q=33.569939,-84.402596",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Renfroe's Plantation",
+    "location": "http://maps.google.com/maps?q=33.550396,-84.414916",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Riverdale First baptist Church",
+    "location": "http://maps.google.com/maps?q=33.569293,-84.416473",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Riverdale First United Methodist Church",
+    "location": "http://maps.google.com/maps?q=33.580775,-84.4163370",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "The Redeemed Christian Church Of God",
+    "location": "http://maps.google.com/maps?q=33.573934,-84.415127",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Tri'umphant Word Ministries",
+    "location": "http://maps.google.com/maps?q=33.55674,-84.416084",
+    "area": "Riverdale",
+    "ex_eligible": true
+  },
+  {
+    "name": "Brick Crucifix",
+    "location": "http://maps.google.com/maps?q=33.44827,-84.452818",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Church Street Park",
+    "location": "http://maps.google.com/maps?q=33.450375,-84.452478",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Crossroads Community Church",
+    "location": "http://maps.google.com/maps?q=33.454535,-84.42993",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Dave's Comics",
+    "location": "http://maps.google.com/maps?q=33.506177,-84.42913",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Destiny Christian Center Church",
+    "location": "http://maps.google.com/maps?q=33.450801,-84.455246",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Fayette Presbyterian Church",
+    "location": "http://maps.google.com/maps?q=33.48396,-84.478472",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Fayette Shrine Club",
+    "location": "http://maps.google.com/maps?q=33.473799,-84.437862",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Fayetteville Christian Church",
+    "location": "http://maps.google.com/maps?q=33.487109,-84.469261",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Fayetteville Lodge",
+    "location": "http://maps.google.com/maps?q=33.448275,-84.460232",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "First Church Of Christ, Scientist",
+    "location": "http://maps.google.com/maps?q=33.474187,-84.44898",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Gateway To Fayetteville",
+    "location": "http://maps.google.com/maps?q=33.447817,-84.462711",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Harp's Crossing Fountain",
+    "location": "http://maps.google.com/maps?q=33.402543,-84.443171",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Heritage Park Fountain",
+    "location": "http://maps.google.com/maps?q=33.446883,-84.455526",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Historic Fayetteville Train Depot",
+    "location": "http://maps.google.com/maps?q=33.44899,-84.451393",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Hopeful Primitive Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.5110142,-84.5006021",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Inman Post Office",
+    "location": "http://maps.google.com/maps?q=33.385130,-84.4139890",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Kenwood Park",
+    "location": "http://maps.google.com/maps?q=33.5142153,-84.44226",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Kiwanis Park & Baseball Fields",
+    "location": "http://maps.google.com/maps?q=33.424485,-84.466074",
+    "area": "Fayetteville",
+    "ex_eligible": true
+  },
+  {
+    "name": "Lane Brown Gazebo",
+    "location": "http://maps.google.com/maps?q=33.447387,-84.455709",
+    "area": "Fayetteville",
+    "ex_eligible": true
+  },
+  {
+    "name": "Lisbon Baptisst Church",
+    "location": "http://maps.google.com/maps?q=33.378632,-84.4773830",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Louis Alexander Memorial",
+    "location": "http://maps.google.com/maps?q=33.387833,-84.4086340",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "McCurry Park",
+    "location": "http://maps.google.com/maps?q=33.457217,-84.420654",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "McCurry Park South Soccer Complex",
+    "location": "http://maps.google.com/maps?q=33.456711,-84.412281",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "McCurry Park Walking Trail",
+    "location": "http://maps.google.com/maps?q=33.460891,-84.412582",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Morgan Grove Nature area",
+    "location": "http://maps.google.com/maps?q=33.404234,-84.4029990",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "New Hope Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.490955,-84.470739",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "New Hope Garden",
+    "location": "http://maps.google.com/maps?q=33.490389,-84.470392",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Patriot Park",
+    "location": "http://maps.google.com/maps?q=33.422706,-84.470804",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Peace Chapel",
+    "location": "http://maps.google.com/maps?q=33.474485,-84.447728",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "South Fayette Church Of Christ",
+    "location": "http://maps.google.com/maps?q=33.393720,-84.4349540",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "St Gabriel Time Capsule",
+    "location": "http://maps.google.com/maps?q=33.398131,-84.4413460",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Steven Rentfroe Pvt",
+    "location": "http://maps.google.com/maps?q=33.385130,-84.4139890",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "The Lanier Building",
+    "location": "http://maps.google.com/maps?q=33.448761,-84.451957",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Treefort Games",
+    "location": "http://maps.google.com/maps?q=33.462944,-84.451835",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Waterfall",
+    "location": "http://maps.google.com/maps?q=33.44655,-84.468102",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Welcome To Fayetteville Mural",
+    "location": "http://maps.google.com/maps?q=33.447861,-84.455374",
+    "area": "Fayetteville",
+    "ex_eligible": false
+  },
+  {
+    "name": "Wildlife Observation Blind",
+    "location": "http://maps.google.com/maps?q=33.411921,-84.466338",
+    "area": "Fayetteville",
+    "ex_eligible": true
+  },
+  {
+    "name": "Business And Merchants",
+    "location": "http://maps.google.com/maps?q=33.551966,-84.2335470",
+    "area": "Stockbridge",
+    "ex_eligible": true
+  },
+  {
+    "name": "Memorial Park",
+    "location": "http://maps.google.com/maps?q=33.536984,-84.2297250",
+    "area": "Stockbridge",
+    "ex_eligible": true
+  },
+  {
+    "name": "Starbucks",
+    "location": "http://maps.google.com/maps?q=33.511341,-84.2241222",
+    "area": "Stockbridge",
+    "ex_eligible": true
+  },
+  {
+    "name": "North Mt. Carmel Bark Park",
+    "location": "http://maps.google.com/maps?q=33.452456,-84.2479650",
+    "area": "McDonough",
+    "ex_eligible": true
+  },
+  {
+    "name": "McDonough",
+    "location": "http://maps.google.com/maps?q=33.466218,-84.2154770",
+    "area": "McDonough",
+    "ex_eligible": true
+  },
+  {
+    "name": "Lighthouse Missionary Church",
+    "location": "http://maps.google.com/maps?q=33.6331194,-84.3480297",
+    "area": "Forest Park",
+    "ex_eligible": false
+  },
+  {
+    "name": "Christian Fellowship Baptist Church",
+    "location": "http://maps.google.com/maps?q=33.6072291,-84.4395902",
+    "area": "Riverdale",
+    "ex_eligible": false
+  },
+  {
+    "name": "Sherwin Williams Painted Water Tower",
+    "location": "http://maps.google.com/maps?q=33.568980,-84.344661",
+    "area": "false",
+    "ex_eligible": false
+  },
+  {
+    "name": "Mtc",
+    "location": "http://maps.google.com/maps?q=33.578467,-84.341439",
+    "ex_eligible": false
+  },
+  {
+    "name": "Battle of Jonesboro The First",
+    "location": "http://maps.google.com/maps?q=33.53261499999999,-84.3665",
+    "ex_eligible": false
+  },
+  {
+    "name": "Restoring New Life",
+    "location": "http://maps.google.com/maps?q=33.555128,-84.41320799999998",
+    "ex_eligible": false
+  },
+  {
+    "name": "First Baptist Church (Morrow)",
+    "location": "http://maps.google.com/maps?q=33.5818538,-84.3366494",
+    "ex_eligible": false
+  }
+]

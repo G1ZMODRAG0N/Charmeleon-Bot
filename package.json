@@ -1,0 +1,19 @@
+{
+  "name": "charmeleon-bot",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "main.js",
+  "dependencies": {
+    "charmeleon-bot": "file:",
+    "discord.js": "^11.4.2",
+    "got": "960",
+    "jimp": "^0.6.4",
+    "json-beautify": "^1.1.0",
+    "nodemon": "^1.19.0",
+    "tesseract.js": "^1.0.19"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "UNLICENSED"
+}
